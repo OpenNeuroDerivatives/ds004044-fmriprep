@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/X1/3v/MD5E-s600135--b92b277cef3f4eaf19b23c1d80fbf0a5.K/MD5E-s600135--b92b277cef3f4eaf19b23c1d80fbf0a5.K
